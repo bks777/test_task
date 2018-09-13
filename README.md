@@ -4,7 +4,7 @@
 * ProtonJS
 * TweenJS
 
-#DEMO -
+#DEMO - https://bks777.github.io/test_task_sg/
 
 # Development Environment
 * Babel 
