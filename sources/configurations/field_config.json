@@ -1,0 +1,168 @@
+{
+  "label": {
+    "text": "MENU",
+    "style": {
+      "fontFamily": "Arial",
+      "fontSize": 70,
+      "fill": "0xFFFFFF",
+      "align": "center",
+      "fontWeight": "bold"
+    },
+    "x": 920,
+    "y": 100
+  },
+  "button_p1": {
+    "x": 900,
+    "y": 312,
+    "text": "PART 1 (tweens)",
+    "style": {
+      "fontFamily": "Arial",
+      "fontSize": 29,
+      "fill": "0x000000",
+      "align": "center",
+      "fontWeight": "bold"
+    },
+    "text_offsets": {
+      "x": 12,
+      "y": 12
+    }
+  },
+  "button_p2": {
+    "x": 900,
+    "y": 612,
+    "text": "PART 2 (text)",
+    "style": {
+      "fontFamily": "Arial",
+      "fontSize": 29,
+      "fill": "0x000000",
+      "align": "center",
+      "fontWeight": "bold"
+    },
+    "text_offsets": {
+      "x": 30,
+      "y": 12
+    }
+  },
+  "button_p3": {
+    "x": 900,
+    "y": 912,
+    "text": "PART 3 (particles)",
+    "style": {
+      "fontFamily": "Arial",
+      "fontSize": 27,
+      "fill": "0x000000",
+      "align": "center",
+      "fontWeight": "bold"
+    },
+    "text_offsets": {
+      "x": 8,
+      "y": 12
+    }
+  },
+  "back": {
+    "color": "0x000000",
+    "alpha": 0.7
+  },
+  "part1": {
+    "button_close": {
+      "x": 900,
+      "y": 40,
+      "text": "CLOSE",
+      "style": {
+        "fontFamily": "Arial",
+        "fontSize": 34,
+        "fill": "0x000000",
+        "align": "center",
+        "fontWeight": "bold"
+      },
+      "text_offsets": {
+        "x": 65,
+        "y": 12
+      }
+    },
+    "sprites_num": 144,
+    "sprite_offset_x": 10,
+    "sprite_offset_y": 1,
+    "waitTime": 1000,
+    "playTime": 2000,
+    "startPosition": {
+      "x": 0,
+      "y": 150
+    },
+    "endPosition": {
+      "x": 0,
+      "y": 900
+    }
+  },
+  "part2": {
+    "button_close": {
+      "x": 900,
+      "y": 31,
+      "text": "CLOSE",
+      "style": {
+        "fontFamily": "Arial",
+        "fontSize": 34,
+        "fill": "0x000000",
+        "align": "center",
+        "fontWeight": "bold"
+      },
+      "text_offsets": {
+        "x": 65,
+        "y": 12
+      }
+    },
+    "styles": [
+      {
+        "fontFamily": "Arial",
+        "fontSize": 34,
+        "fill": "0x000000",
+        "align": "center",
+        "fontWeight": "bold"
+      },
+      {
+        "fontFamily": "Arial",
+        "fontSize": 12,
+        "fill": "0xffffff",
+        "align": "center",
+        "fontWeight": "bold"
+      },
+      {
+        "fontFamily": "Arial",
+        "fontSize": 28,
+        "fill": "0x000000",
+        "align": "center",
+        "fontWeight": "bold"
+      },
+      {
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "0xcccccc",
+        "align": "center",
+        "fontWeight": "bold"
+      }
+    ],
+    "x": 850,
+    "y": 700,
+    "generation_delay": 2000,
+    "elements_min": 3,
+    "elements_max": 8
+  },
+  "part3": {
+    "button_close": {
+    "x": 900,
+    "y": 200,
+    "text": "CLOSE",
+    "style": {
+      "fontFamily": "Arial",
+      "fontSize": 34,
+      "fill": "0x000000",
+      "align": "center",
+      "fontWeight": "bold"
+    },
+    "text_offsets": {
+      "x": 65,
+      "y": 12
+    }
+  }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "images": [
+    {
+      "name": "button",
+      "path": "resources/BTN.png"
+    },
+    {
+      "name": "fire",
+      "path": "resources/fire.png"
+    },
+    {
+      "name": "happy",
+      "path": "resources/happy.jpg"
+    },
+    {
+      "name": "sad",
+      "path": "resources/sad.jpg"
+    },
+    {
+      "name": "sprite",
+      "path": "resources/sprite.png"
+    }
+  ]
+}
